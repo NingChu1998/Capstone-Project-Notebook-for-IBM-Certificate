@@ -1,2 +1,2 @@
 # Capstone-Project-Notebook-for-IBM-Certificate
-This project aims to use New York Housing data to analyze and get some insights 
+This repository is a part of IBM Data Science Professional Certificate courses
